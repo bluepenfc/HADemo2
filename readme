@@ -2,3 +2,6 @@ Run on Eclipse Luna
 If maven is not installe in Eclipse, nstall Maven plugin.
 Install TestNG plugin in Eclipse
 Once project is open in Eclipse, right-click -> run as -> TestNG test
+
+I am in Houston, I get differnt results from expected result in ppt file. The first time use this API, not sure if location has an impact.
+I manullay checked distance, seems what I got is shortest.  900 Barton Springs Rd, Austin, TX, 78704

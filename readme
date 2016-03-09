@@ -1,0 +1,4 @@
+Run on Eclipse Luna
+If maven is not installe in Eclipse, nstall Maven plugin.
+Install TestNG plugin in Eclipse
+Once project is open in Eclipse, right-click -> run as -> TestNG test
